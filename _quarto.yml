@@ -11,6 +11,8 @@ website:
         text: Home
       - href: maps.qmd
         text: Maps
+      - href: miniproject2.qmd
+        text: MiniProject2
 page-footer:
     left: |
       &copy; Henry Gliedman, 2024<br>
