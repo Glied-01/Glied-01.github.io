@@ -13,7 +13,6 @@ website:
         text: "Maps"
       - file: miniproject2.qmd
         text: "Mini Project_2"
-
 page-footer:
     left: |
       &copy; Henry Gliedman, 2024<br>
