@@ -14,7 +14,7 @@ First the data needed to be downloaded. All of this data came from St. Olaf Base
 ```{r}
 library(dplyr)
 library(ggplot2)
-stuff_plus_data <- read.csv("C:/Users/henry/Downloads/264_R_Stuff/stuff.csv")
+stuff_plus_data <- read.csv("stuff.csv")
 
 stuff_plus_data
 

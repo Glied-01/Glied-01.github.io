@@ -18,7 +18,7 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 
-nba_data<- read.csv("C:/Users/henry/Downloads/264_R_Stuff/Players.csv")
+nba_data<- read.csv("Players.csv")
 #Edit NBA Data
 new_NBA<- nba_data|>
   mutate(birth_state= tolower(birth_state))|>
