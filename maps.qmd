@@ -7,7 +7,7 @@ format: html
 
 Hello this is the Maps page. Here we are going to explore some maps, and how we can infer visual data.
 
-# Map 1:  
+# Map 1:
 
 First we are going to import our data into R, and clean the NBA data so it can be joined to our US States data. The first map we are looking at today is a map of the distribution of NBA basketball players in the 48 continental states. First we are going to import our data into R, and clean the NBA data so it can be joined to our US States data. Then we will display the chart.
 
